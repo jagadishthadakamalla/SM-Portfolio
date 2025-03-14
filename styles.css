@@ -36,12 +36,20 @@ body {
     border-radius: 50%; /* Makes the image circular */
 }
 
+/* Main Container Styles */
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
 /* Contact Information Styles */
 .contact-info {
     background-color: white;
     padding: 10px;
     text-align: left;
     font-size: 0.9em; /* Reduced font size */
+    width: 45%; /* Adjust width as needed */
 }
 
 .contact-info p {
@@ -54,7 +62,11 @@ body {
 
 /* About Me Styles */
 .about-me {
-    margin-left: 20px;
+    background-color: white;
+    padding: 10px;
+    text-align: left;
+    font-size: 0.9em; /* Reduced font size */
+    width: 45%; /* Adjust width as needed */
 }
 
 .about-me h2 {
@@ -66,8 +78,6 @@ body {
     background-color: #F4F5F7;
     padding: 10px;
 }
-
-
 
 .quick-filters p {
     display: inline;
