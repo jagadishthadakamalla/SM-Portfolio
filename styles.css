@@ -52,10 +52,19 @@ body {
     font-weight: bold; /* Makes the contact details bold */
 }
 
-/* Quick Filters Styles */
+/* Quick Filters Styles */    
 .quick-filters {
     background-color: #F4F5F7;
     padding: 10px;
+}
+
+/* About Me Styles */
+.about-me {
+    margin-left: 20px;
+}
+
+.about-me h2 {
+    margin-top: 0;
 }
 
 .quick-filters p {
