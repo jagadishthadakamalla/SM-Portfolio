@@ -65,11 +65,9 @@ body {
     background-color: white;
     padding: 10px;
     text-align: left;
-    font-size: 0.9em; /* Reduced font size */
+    font-size: 0.8em; /* Reduced font size */
     width: 45%; /* Adjust width as needed */
-    position: absolute;
-    top: 150px; /* Adjust the position as needed */
-    right: 20px; /* Adjust the position as needed */
+    margin-left: 20px; /* Adjust the margin to place it next to the contact info */
 }
 
 .about-me h2 {
@@ -80,7 +78,7 @@ body {
 .quick-filters {
     background-color: #F4F5F7;
     padding: 10px;
-    margin-top: 100px; /* Adjust the margin to make space for the About Me section */
+    margin-top: 20px; /* Adjust the margin to make space for the About Me section */
 }
 
 .quick-filters p {
