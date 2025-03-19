@@ -12,6 +12,7 @@ body {
     padding: 1px 20px; /* Further reduced height */
     text-align: left; /* Aligns the title to the left */
     position: relative; /* Allows positioning of the profile picture */
+    font-family: 'Roboto', Arial, sans-serif; /* Ensure font consistency */
 }
 
 /* Title Styles */
@@ -41,6 +42,7 @@ body {
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    font-family: 'Roboto', Arial, sans-serif; /* Ensure font consistency */
 }
 
 /* About Me Styles */
@@ -48,9 +50,10 @@ body {
     background-color: white;
     padding: 10px;
     text-align: left;
-    font-size: 0.8em; /* Reduced font size */
+    font-size: 0.7em; /* Reduced font size */
     width: 45%; /* Adjust width as needed */
     order: 1; /* Ensures About Me section is first */
+    font-family: 'Roboto', Arial, sans-serif; /* Ensure font consistency */
 }
 
 .about-me h2 {
@@ -65,6 +68,7 @@ body {
     font-size: 0.9em; /* Reduced font size */
     width: 45%; /* Adjust width as needed */
     order: 2; /* Ensures Contact Information section is second */
+    font-family: 'Roboto', Arial, sans-serif; /* Ensure font consistency */
 }
 
 .contact-info p {
@@ -80,6 +84,7 @@ body {
     background-color: #F4F5F7;
     padding: 10px;
     margin-top: 0; /* Reduced the margin to remove extra space */
+    font-family: 'Roboto', Arial, sans-serif; /* Ensure font consistency */
 }
 
 .quick-filters p {
@@ -109,6 +114,7 @@ body {
     border: 1px solid #E0E0E0;
     margin: 10px;
     padding: 10px;
+    font-family: 'Roboto', Arial, sans-serif; /* Ensure font consistency */
 }
 
 .swimlane h2 {
