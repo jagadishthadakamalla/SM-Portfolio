@@ -50,7 +50,7 @@ body {
     background-color: white;
     padding: 10px;
     text-align: left;
-    font-size: 0.7em; /* Reduced font size */
+    font-size: 0.8em; /* Reduced font size */
     width: 45%; /* Adjust width as needed */
     order: 1; /* Ensures About Me section is first */
     font-family: 'Roboto', Arial, sans-serif; /* Ensure font consistency */
