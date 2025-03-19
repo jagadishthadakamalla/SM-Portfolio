@@ -42,7 +42,19 @@ body {
     justify-content: space-between;
     padding: 20px;
 }
+/* About Me Styles */
+.about-me {
+    background-color: white;
+    padding: 10px;
+    text-align: left;
+    font-size: 0.8em; /* Reduced font size */
+    width: 45%; /* Adjust width as needed */
+   
+}
 
+.about-me h2 {
+    margin-top: 0;
+}
 /* Contact Information Styles */
 .contact-info {
     background-color: white;
@@ -50,6 +62,7 @@ body {
     text-align: left;
     font-size: 0.9em; /* Reduced font size */
     width: 45%; /* Adjust width as needed */
+    margin-left: 20px; /* Adjust the margin to place it next to the contact info */
 }
 
 .contact-info p {
@@ -60,19 +73,7 @@ body {
     font-weight: bold; /* Makes the contact details bold */
 }
 
-/* About Me Styles */
-.about-me {
-    background-color: white;
-    padding: 10px;
-    text-align: left;
-    font-size: 0.8em; /* Reduced font size */
-    width: 45%; /* Adjust width as needed */
-    margin-left: 20px; /* Adjust the margin to place it next to the contact info */
-}
 
-.about-me h2 {
-    margin-top: 0;
-}
 
 /* Quick Filters Styles */    
 .quick-filters {
